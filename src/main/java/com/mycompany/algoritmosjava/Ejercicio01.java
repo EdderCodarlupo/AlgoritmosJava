@@ -11,6 +11,9 @@ package com.mycompany.algoritmosjava;
 public class Ejercicio01 {
     
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
+        int numero = 5;
+        int numero2 = 10;
+        int resultado = numero + numero2;
+        System.out.println(resultado);
     }
 }
