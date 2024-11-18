@@ -15,5 +15,6 @@ public class Ejercicio01 {
         int numero2 = 10;
         int resultado = numero + numero2;
         System.out.println(resultado);
+        System.out.println("Hola Mundo");
     }
 }
